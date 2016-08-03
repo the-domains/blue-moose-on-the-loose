@@ -1,0 +1,28 @@
+name: blue moose on the loose
+favicon: null
+layout_spectrum: 0.42480781953781843
+typography_spectrum: 0.351933823665604
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.39152886043302715
+  lightness: 0.2974181096069515
+  saturation: 0.39302516262978315
+  rhythmicContrast: 0.24377862154506147
+purpose: []
